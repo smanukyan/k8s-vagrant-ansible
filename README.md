@@ -7,3 +7,8 @@ Using Vagrant to spin up VirtualBox VMs with Ubuntu Bionic and Ansible playbooks
 - Ansible
 - Vagrant
 - VirtualBox
+
+## To run
+```bash
+vagrant up
+```
